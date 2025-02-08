@@ -1,4 +1,4 @@
-// write a c program to search an element from a sorted array
+//Q2: write a c program to search an element from a sorted array
 #include<stdio.h>
 
 int binarySearch(int arr[], int l, int r, int x) {
