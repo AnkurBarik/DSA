@@ -1,4 +1,4 @@
-// write a c program to search an element from n numbers of array, using an algorithm who's time complexity is order of n
+//Q1: write a c program to search an element from n numbers of array, using an algorithm who's time complexity is order of n
 
 #include<stdio.h>
 
